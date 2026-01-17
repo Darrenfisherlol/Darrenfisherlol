@@ -2,13 +2,21 @@
 
 I'm a Software Engineer from the US
 
-I currently work on a work planning and management SaaS tool for the DoD
+I currently work on a work planning and management SaaS tool
 
-My current stack is C#, React, and Angular
+My side project is a chemical plant risk planning SaaS with my brother
 
-My last role was a data focused Quant and internships in Data Engineering
+I'm currently working with C#, React, and Angular
 
-My Masters degree is in Data Analytics
+Current "Flex"
+- Automating over $200k in yearly analytical tasks
+- Working with Data Sci team to save over $400k in yearly interest expenses
+- Implementing feature based CQRS backend
+- Adding test coverage to critical system features
+- Implementing DoD clearance software
+
+Education: Masters degree in Data Analytics<br>
+Previous roles: BI Dev / Data engineer Intern, Quant Risk, & Full Stack Eng
 
 You can find me on:<br>
 My website: [DarrenFisherlol](https://darrenfisherlol.github.io/)<br>
