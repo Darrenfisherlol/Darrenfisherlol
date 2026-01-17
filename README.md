@@ -10,7 +10,7 @@ My last role was a data focused Quant and internships in Data Engineering
 
 My Masters degree is in Data Analytics
 
-You can find me on:
-My website: [DarrenFisherLol](https://darrenfisherlol.github.io/)
-GitHub as @Darrenfisherlol (you are here)
-[Linkedin](https://www.linkedin.com/in/darrenafisher/)
+You can find me on:<br>
+My website: [DarrenFisherlol](https://darrenfisherlol.github.io/)<br>
+GitHub as @Darrenfisherlol (you are here)<br>
+[Linkedin](https://www.linkedin.com/in/darrenafisher/)<br>
