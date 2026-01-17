@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey! I'M @Darrenfisherlol (Darren Fisher) 👋
 
-<!--
-**Darrenfisherlol/Darrenfisherlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from the US
 
-Here are some ideas to get you started:
+I currently work on a work planning and management SaaS tool for the DoD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current stack is C# and React
+
+My last role was a data focused Quant and Internships in Data Engineering
+
+My Masters degree is in Data Analytics
+
+You can find me on:
+My website: [DarrenFisherLol](https://darrenfisherlol.github.io/)
+GitHub as @Darrenfisherlol (you are here)
+[Linkedin](https://www.linkedin.com/in/darrenafisher/)
