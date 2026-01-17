@@ -1,12 +1,12 @@
-## Hey! I'M @Darrenfisherlol (Darren Fisher) 👋
+## Hey! I'm @Darrenfisherlol (Darren Fisher) 👋
 
 I'm a Software Engineer from the US
 
 I currently work on a work planning and management SaaS tool for the DoD
 
-My current stack is C# and React
+My current stack is C#, React, and Angular
 
-My last role was a data focused Quant and Internships in Data Engineering
+My last role was a data focused Quant and internships in Data Engineering
 
 My Masters degree is in Data Analytics
 
