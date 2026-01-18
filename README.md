@@ -1,24 +1,25 @@
 ## Hey! I'm @Darrenfisherlol (Darren Fisher) 👋
 
-I'm a Software Engineer from the US
+I'm a **Software Engineer** based in the US.
 
-I currently work on a work planning and management SaaS tool
+I'm currently work on a **work planning and management SaaS** platform
 
-My side project is a chemical plant risk planning SaaS with my brother
+On the side, I’m building a **chemical plant risk planning SaaS** with my brother.
 
-I'm currently working with C#, React, and Angular
+Currently stack: C#, Python, React, and Angular
 
-Current "Flex"
-- Automating over $200k in yearly analytical tasks
-- Working with Data Sci team to save over $400k in yearly interest expenses
-- Implementing feature based CQRS backend
-- Adding test coverage to critical system features
-- Implementing DoD clearance software
+### Current Flex 
+- Automated over **$200k** in yearly analytical tasks
+- Collaborated with **Quant teammates** to save over **$400k** annually in interest expenses
+- Implemented a **feature-based CQRS backend** and APIs in C#
+- Added test coverage to critical system features
+- Applied **DoD clearance** requirements to software systems
 
-Education: Masters degree in Data Analytics<br>
-Previous roles: BI Dev / Data engineer Intern, Quant Risk, & Full Stack Eng
+### Background
+- **Education:** Master’s degree in Data Analytics  
+- **Previous roles:** BI Developer / Data Engineer Intern, Quant Risk, & now a Full Stack Software Engineer
 
-You can find me on:<br>
-My website: [DarrenFisherlol](https://darrenfisherlol.github.io/)<br>
-GitHub as @Darrenfisherlol (you are here)<br>
-[Linkedin](https://www.linkedin.com/in/darrenafisher/)<br>
+### Find me online
+- Website: [darrenfisherlol.github.io](https://darrenfisherlol.github.io/)
+- GitHub: @Darrenfisherlol (you are here)
+- LinkedIn: [linkedin.com/in/darrenafisher](https://www.linkedin.com/in/darrenafisher/)
