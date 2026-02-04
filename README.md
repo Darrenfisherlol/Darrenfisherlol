@@ -8,11 +8,11 @@ On the side, I’m building a **chemical plant risk planning SaaS** with my brot
 
 Currently stack: C#, Python, React, and Angular
 
-### Current Flex 
-- Automated over **$200k** in yearly analytical tasks
+### Current Flex
+- Automated over **$215k** in yearly energy financial analytics
 - Collaborated with **Quant teammates** to save over **$400k** annually in interest expenses
-- Implemented a **feature-based CQRS backend** and APIs in C#
-- Added test coverage to critical system features
+- Modernized backends with **feature-based CQRS** design in C# (ASP.Net Core)
+- Added **integration testing** to critical system features
 - Applied **DoD clearance** requirements to software systems
 
 ### Background
